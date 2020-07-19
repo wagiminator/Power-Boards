@@ -1,0 +1,1 @@
+A slightly different approach to USB-C power delivery by combining a PD maximum voltage trigger (IP2721, up to 20V) and a buck converter (MP2307). The output voltage can be selected via the voltage divider (R5 + R6). The maximum output current is 3A.

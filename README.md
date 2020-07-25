@@ -54,7 +54,6 @@ Key functions:
 - If two short push is detected within 1s, IP5306 will open or close PWR LED (flashlight).
 
 ![IMG_20200111_160606_x.jpg](https://image.easyeda.com/pullimage/rxdgYDNxoOJD6VvLInlVP580dBqVBJwm64oJ3WG0.jpeg)
-![IP5306_efficiency_x.png](https://image.easyeda.com/pullimage/wphHg653VxfUIUU01PYvrbN4pTR3UtEO0s1xtUJ8.png)
 
 # LiPo Power Board (FP6277)
 

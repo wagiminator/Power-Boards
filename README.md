@@ -32,7 +32,7 @@ LiPo battery charging and protection circuit.
 
 # LiPo Power Board (IP5306)
 
-LiPo battery charger, protector and 5V booster based on the IP5306 featuring:
+LiPo battery charger, protector and 5V booster based on the IP5306 with MicroUSB or USB-C port featuring:
 - synchronous switch-mode charging with up to 2.1A / 91% efficiency,
 - discharging with up to 2.4A,
 - 5V boost converter with up to 92% efficiency,
@@ -54,6 +54,7 @@ Key functions:
 - If two short push is detected within 1s, IP5306 will open or close PWR LED (flashlight).
 
 ![IMG_20200111_160606_x.jpg](https://image.easyeda.com/pullimage/rxdgYDNxoOJD6VvLInlVP580dBqVBJwm64oJ3WG0.jpeg)
+![IMG_20200806_170113_x.jpg](https://image.easyeda.com/pullimage/29fr5i6Ls9qVSXgj1bzG9rKqmmX9oJmnZgL4GFrm.jpeg)
 
 # LiPo Power Board (FP6277)
 
@@ -130,3 +131,9 @@ Boost converter with USB plug. Fixed output voltage can be defined via the volta
 Constant current boost converter and LED Driver with USB Plug.
 
 ![IMG_20200315_151415_x.jpg](https://image.easyeda.com/pullimage/hsKdiqPm0A75mJzs1EiWkaLzdW4FENb6iK2JoRHU.jpeg)
+
+# SEPIC (MT3608)
+
+Simple single ended primary inductance converter (SEPIC) based on the MT3608 with a fixed output voltage selectable by the resistor values of the voltage divider.
+
+![IMG_20200806_170226_q.jpg](https://image.easyeda.com/pullimage/Voqvhdh1PErloHANypPeMHkhQYi1d9WUSHJrtioN.jpeg)

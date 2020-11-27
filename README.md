@@ -44,7 +44,7 @@ Charger for LIR2032 Li-Ion batteries.
 
 ![IMG_20200111_160350_x.jpg](https://image.easyeda.com/pullimage/EShLyzT9JReVfZoNtx9tAFyMHE65saIXZoaC6Sfo.jpeg)
 
-## [LiFePO4 Charger (CN35058)](https://github.com/wagiminator/Power-Boards/tree/master/LiFePO4_Charger_CN3058)
+## [LiFePO4 Charger (CN3058)](https://github.com/wagiminator/Power-Boards/tree/master/LiFePO4_Charger_CN3058)
 
 One cell LiFePO4 battery charger and protector.
 

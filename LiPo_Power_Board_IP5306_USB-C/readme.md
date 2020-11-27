@@ -1,6 +1,6 @@
 # IP5306 LiPo Power Board USB-C
 
-LiPo battery charger, protector and 5V booster based on the IP5306](https://datasheet.lcsc.com/szlcsc/INJOINIC-IP5306_C181692.pdf) with USB-C input featuring:
+LiPo battery charger, protector and 5V booster based on the [IP5306](https://datasheet.lcsc.com/szlcsc/INJOINIC-IP5306_C181692.pdf) with USB-C input featuring:
 - synchronous switch-mode charging with up to 2.1A / 91% efficiency,
 - discharging with up to 2.4A,
 - 5V boost converter with up to 92% efficiency,

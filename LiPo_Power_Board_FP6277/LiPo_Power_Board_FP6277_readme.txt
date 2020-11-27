@@ -1,1 +1,0 @@
-Li-Ion battery charger, protector and 5V/3A booster. Use unprotected Li-Ion batteries with low internal resistance which are rated for a discharge current of at least 7A! Connect the battery with short wires of 20AWG or thicker! Attach a heatsink on the back side of the PCB when drawing more than 2A of current continuously! Use a slide switch that can withstand a current of 6A!

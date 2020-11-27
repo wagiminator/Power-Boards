@@ -1,4 +1,6 @@
-LiPo battery charger, protector and 5V booster based on the IP5306 featuring:
+# IP5306 LiPo Power Board USB-C
+
+LiPo battery charger, protector and 5V booster based on the IP5306](https://datasheet.lcsc.com/szlcsc/INJOINIC-IP5306_C181692.pdf) with USB-C input featuring:
 - synchronous switch-mode charging with up to 2.1A / 91% efficiency,
 - discharging with up to 2.4A,
 - 5V boost converter with up to 92% efficiency,
@@ -18,3 +20,6 @@ Key functions:
 - If two short pushes are detected within 1s, IP5306 will deactivate step-up converter, SOC indicator LEDs and PWR LED (flashlight).
 - If button is pushed longer than 2s, IP5306 will identify the action as long push. Long push will enable or disable PWR LED (flashlight).
 - If button is pushed shorter than 30ms, IP5306 will ignore the action.
+
+![IMG_20200806_170113_x.jpg](https://image.easyeda.com/pullimage/29fr5i6Ls9qVSXgj1bzG9rKqmmX9oJmnZgL4GFrm.jpeg)
+![IP5306_efficiency_x.png](https://image.easyeda.com/pullimage/wphHg653VxfUIUU01PYvrbN4pTR3UtEO0s1xtUJ8.png)

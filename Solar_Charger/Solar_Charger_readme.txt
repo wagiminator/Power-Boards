@@ -1,1 +1,0 @@
-Solar powered switch-mode charger (CN3801), protector (HY2112) and 5V booster (MT3608) for LiFePO4 batteries. The charger provides maximum power point tracking (MPPT) and can easily be modified to work with LiPo batteries.

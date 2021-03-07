@@ -38,6 +38,12 @@ Li-Ion battery charger (TP4056), protector (DW01A) and 5V/2A booster (FP6298).
 
 ![IMG_20200330_124927_x.jpg](https://image.easyeda.com/pullimage/bRBb8FD9yUtVva9H7F6e39vb6Yv6SrIVKecqImYC.jpeg)
 
+## [LIR1220 Charger (MCP73831)](https://github.com/wagiminator/Power-Boards/tree/master/LIR1220_Charger_MCP73831)
+
+Charger for LIR1220 Li-Ion batteries.
+
+![LIR1220_Charger.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LIR1220_Charger_MCP73831/LIR1220_Charger_MCP73831_pic1.jpg)
+
 ## [LIR2032 Charger (TP4056)](https://github.com/wagiminator/Power-Boards/tree/master/LIR2032_Charger_TP4056)
 
 Charger for LIR2032 Li-Ion batteries.

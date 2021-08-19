@@ -1,0 +1,10 @@
+# TP4056 LiPo Charger LS
+Li-Ion/LiPo battery charging and protection board (25.4mm x 17.8mm) with USB-C port and load sharing power path control.
+
+![IMG_20210819_113534_x.jpg](https://image.easyeda.com/pullimage/B0T9KeI21MM6r1Ac8N2WSpHn8RigFNODRVMIk4Yc.jpeg)
+
+For battery charging the [TP4056](https://datasheet.lcsc.com/szlcsc/1904031009_TPOWER-TP4056_C382139.pdf) (U1) is used. The TP4056 is a complete constant-current/constant-voltage linear charger for single cell lithium-ion batteries. The charge voltage is fixed at 4.2V and the charge current (max 1000mA) can be programmed externally with a single resistor (R3). The TP4056 automatically terminates the charge cycle when the charge current drops to 1/10th the programmed value after the final float voltage is reached. Other features include current monitor, under voltage lockout and automatic recharge.
+
+For the battery protection (overcharge, overdischarge, overcurrent and short circuit protection) the [DW01A](https://datasheet.lcsc.com/szlcsc/1901091236_PUOLOP-DW01A_C351410.pdf) (U2) is used in combination with an [FS8205](https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-FS8205_C32254.pdf) dual MOSFET (Q1). The DW01A is constantly measuring the voltage across the battery and the current flowing in (when charging) or coming out (when discharging). If something goes wrong it takes the battery out of the circuit by closing the MOSFET which acts like a switch between the negative side of the battery (B-) and ground. The overcurrent protection works by comparing the voltage drop across the MOSFET with the internal 150mV reference of the DW01A. As the RDS(on) of the FS8205 is around 2x25mOhm, so the DW01A closes the MOSFET at a current of 150mV/50mOhm = 3A.
+
+The load sharing power path control (Q2, D1, R6) interrupts the connection between the battery and the load when an external power supply is connected. In this case, the load is powered by the external power supply while the battery is being charged. This protects the battery and increases its lifespan.

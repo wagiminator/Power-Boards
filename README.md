@@ -20,6 +20,12 @@ LiPo battery charging and protection circuit.
 
 ![LiPoCharger.jpg](https://image.easyeda.com/pullimage/1AFRDXL18TS9FlEvhszar0sCkHfKe3Lg5W7eNZ97.jpeg)
 
+## [LiPo Charger LS (TP4056)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Charger_LS_TP4056)
+
+Li-Ion/LiPo battery charging and protection board with USB-C port and load sharing power path control.
+
+![LiPoChargerLS.jpg](https://image.easyeda.com/pullimage/B0T9KeI21MM6r1Ac8N2WSpHn8RigFNODRVMIk4Yc.jpeg)
+
 ## [LiPo Power Board (IP5306)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_IP5306_USB-C)
 
 LiPo battery charger, protector and 5V booster based on the IP5306 with [MicroUSB](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_IP5306) or [USB-C port](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_IP5306_USB-C).

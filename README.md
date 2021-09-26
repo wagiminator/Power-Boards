@@ -115,3 +115,9 @@ Constant current boost converter and LED Driver with USB Plug.
 Simple single ended primary inductance converter (SEPIC) based on the MT3608 with a fixed output voltage selectable by the resistor values of the voltage divider.
 
 ![IMG_20200806_170226_q.jpg](https://image.easyeda.com/pullimage/Voqvhdh1PErloHANypPeMHkhQYi1d9WUSHJrtioN.jpeg)
+
+## [Low Current Boost Converter (MT3608)](https://github.com/wagiminator/Power-Boards/tree/master/LCBC_MT3608)
+
+Cheap and low-profile 12V boost converter based on MT3608 for low current applications (max 30mA) like high-voltage programmers.
+
+![IMG_20210925_153751_x.jpg](https://image.easyeda.com/pullimage/ahZcxvuz1EmKPvfXRGddIx1s60hwCnzGDy33DWQw.jpeg)

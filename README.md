@@ -98,6 +98,12 @@ A slightly different approach to USB-C power delivery by combining a PD maximum 
 
 ![IMG_20200111_160419_x.jpg](https://image.easyeda.com/pullimage/u7gXdgO6U9UGPXfZC9cimWuZ6az31SlvdAqcG5HZ.jpeg)
 
+## [Buck Converter (SD8942) - 78xx Replacement](https://github.com/wagiminator/Power-Boards/tree/master/78xx_Replacement_SD8942)
+
+Replace your old 78xx voltage regulators with this much more efficient replacement.
+
+![78xx_Replacement.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_pic1.jpg)
+
 ## [Boost Converter (MT3608)](https://github.com/wagiminator/Power-Boards/tree/master/Boost_Converter_MT3608)
 
 Boost converter with USB plug. Fixed output voltage can be defined via the voltage divider.

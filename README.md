@@ -74,9 +74,9 @@ Single cell LiFePO4 charger (CN3058E), protector (HY2112) and 5V booster (MT3608
 
 ![IMG_20200717_181618_x.jpg](https://image.easyeda.com/pullimage/Wa2umGI3BfJwbjposDb5Fg25JV4E4ipz6PLd5LOi.jpeg)
 
-## [USB-PD Decoy (CH224K)](https://github.com/wagiminator/Power-Boards/tree/master/USB-PD_Decoy_CH224K)
+## [USB PD Decoy (CH224K)](https://github.com/wagiminator/Power-Boards/tree/master/USB-PD_Decoy_CH224K)
 
-With the USB-PD Decoy, a USB-C power adapter can be used as a power supply with the option of selecting different output voltages via DIP switches. It is based on the cheap and easy-to-use CH224K multi-fast charging protocol power receiving chip.
+With the USB PD Decoy, a USB Type-C PD power adapter can be used as a power supply with the option of selecting different output voltages via DIP switches. It is based on the cheap and easy-to-use CH224K multi fast charging protocol power receiving chip.
 
 ![USB-PD_Decoy_CH224K_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Decoy_CH224K/USB-PD_Decoy_CH224K_pic1.jpg)
 
@@ -106,7 +106,7 @@ A slightly different approach to USB-C power delivery by combining a PD maximum 
 
 ## [Buck Converter (SD8942) - 78xx Replacement](https://github.com/wagiminator/Power-Boards/tree/master/78xx_Replacement_SD8942)
 
-Replace your old 78xx voltage regulators with this much more efficient replacement.
+Replace your old 78xx voltage regulators with this much more efficient pin-compatible buck converter.
 
 ![78xx_Replacement.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_pic1.jpg)
 

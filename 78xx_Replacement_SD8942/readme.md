@@ -1,5 +1,5 @@
 # 78xx Replacement (SD8942)
-Replace your old 78xx voltage regulators with this much more efficient replacement.
+Replace your old 78xx voltage regulators with this much more efficient pin-compatible buck converter.
 
 ![78xx_Replacement_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_pic1.jpg)
 

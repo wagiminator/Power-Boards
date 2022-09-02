@@ -1,14 +1,14 @@
 # USB Power Delivery Decoy (CH224K)
-With the USB-PD Decoy, a USB-C power adapter can be used as a power supply with the option of selecting different output voltages via DIP switches. It is based on the cheap and easy-to-use CH224K multi-fast charging protocol power receiving chip.
+With the USB PD Decoy, a USB Type-C PD power adapter can be used as a power supply with the option of selecting different output voltages via DIP switches. It is based on the cheap and easy-to-use CH224K multi fast charging protocol power receiving chip.
 
 ![USB-PD_Decoy_CH224K_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Decoy_CH224K/USB-PD_Decoy_CH224K_pic1.jpg)
 
-The CH224K integrates multiple fast charging protocols such as USB PD3.0/2.0, BC1.2 and other boost fast charging protocols on a single chip. It features:
+The CH224K is a USB PD power receiving protocol chip, which integrates PD3.0/2.0, BC1.2 and other fast charging protocols, automatically detects VCONN and analog E-Mark chips, supports up to 100W power, and has built-in PD communication module. It also integrates output voltage detection internally to support overheating and overvoltage protection. It features:
 
 - 4V to 22V input voltage
 - PD3.0/2.0, BC1.2 and other fast charging protocols
 - USB Type-C PD, positive and negative insertion detection and automatic switching
-- E-Mark simulation, automatically detect VCONN, support 100W power PD request
+- E-Mark simulation, automatically detects VCONN, supports 100W power PD request
 - requested voltage can be dynamically adjusted through a variety of methods
 - high integration of single chip, simplified peripheral and low cost
 - built-in over-voltage and over-temperature protection module

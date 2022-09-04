@@ -26,3 +26,4 @@ The output voltage can be selected via the DIP switches as follows:
 The Power-Good LED lights up when the selected voltage has been successfully negotiated with the USB-C power adapter and is present at the output. The voltage can also be changed during operation.
 
 1. [CH224K Datasheet](https://datasheet.lcsc.com/lcsc/2204251615_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf)
+2. [TI Primer on USB PD](https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf)

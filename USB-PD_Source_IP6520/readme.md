@@ -1,5 +1,5 @@
 # USB Power Delivery Source (IP6520)
-With the USB-PD Source, old power supplies can be transformed into modern fast charging adapters with a USB Type-C output port and an output power of up to 18W. The device masters the most common fast charging protocols and can offer different voltages with high currents (5V@3.1A, 7V@2.4A, 9V@2A, 12V@1.5A).
+With the USB-PD Source, old power supplies can be transformed into modern fast charging adapters with a USB Type-C output port and an output power of up to 18W. The device masters the most common fast charging protocols and can offer different voltages with high currents (5V/3.1A, 7V/2.4A, 9V/2A, 12V/1.5A).
 
 ![USB-PD_Source_IP6520_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Source_IP6520/USB-PD_Source_IP6520_pic1.jpg)
 
@@ -9,7 +9,7 @@ IP6510 is a synchronized switch buck regulator and supports 9 fast charge output
   - Built-in power MOSFET
   - Input voltage range: 4.5V~32V
   - Output voltage range: 3V~12V, adjust along with fast charge negotiation
-  - Output power: up to 18W (5V@3.1A, 7V@2.4A, 9V@2A, 12V@1.5A)
+  - Output power: up to 18W (5V/3.1A, 7V/2.4A, 9V/2A, 12V/1.5A)
   - Output voltage line compensation: 50mV/A
   - Output CV/CC characteristic: CV—output - current lower than preset value; CC—output - current higher than preset value
   - Conversion efficiency: up to 97%

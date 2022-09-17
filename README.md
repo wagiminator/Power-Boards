@@ -25,7 +25,7 @@ Li-Ion/LiPo battery charging and protection board with USB-C port and load shari
 ## [LiPo Power Board (IP5306)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_IP5306)
 LiPo battery charger, protector and 5V booster based on the IP5306 with MicroUSB or USB Type-C port.
 
-![LiPo_Power_Board_IP5306.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_pic2.jpg)
+![LiPo_Power_Board_USB-C_IP5306.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_USB-C_IP5306_pic1.jpg)
 
 ## [LiPo Power Board (FP6277)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_FP6277)
 Li-Ion battery charger (TP4056), protector (DW01A) and 5V/3A booster (FP6277).
@@ -61,6 +61,11 @@ Single cell LiFePO4 charging (CN3058E) and protection (HY2112) board with load s
 Single cell LiFePO4 charger (CN3058E), protector (HY2112) and 5V booster (MT3608) board with load sharing power path management.
 
 ![LiFePO4_Power_Board_LS_5V.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiFePO4_Power_Board_LS_5V/LiFePO4_Power_Board_LS_5V_pic1.jpg)
+
+## [USB PD Source (IP6520)](https://github.com/wagiminator/Power-Boards/tree/master/USB-PD_Source_IP6520)
+With the USB-PD Source, old power supplies can be transformed into modern fast charging adapters with a USB Type-C output port and an output power of up to 18W. The device masters the most common fast charging protocols and can offer different voltages with high currents (5V@3.1A, 7V@2.4A, 9V@2A, 12V@1.5A).
+
+![USB-PD_Source_IP6520_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Source_IP6520/USB-PD_Source_IP6520_pic1.jpg)
 
 ## [USB PD Decoy (CH224K)](https://github.com/wagiminator/Power-Boards/tree/master/USB-PD_Decoy_CH224K)
 With the USB PD Decoy, a USB Type-C PD power adapter can be used as a power supply with the option of selecting different output voltages via DIP switches. It is based on the cheap and easy-to-use CH224K multi fast charging protocol power receiving chip.

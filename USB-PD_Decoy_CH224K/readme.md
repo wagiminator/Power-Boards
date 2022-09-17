@@ -3,6 +3,7 @@ With the USB PD Decoy, a USB Type-C PD power adapter can be used as a power supp
 
 ![USB-PD_Decoy_CH224K_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Decoy_CH224K/USB-PD_Decoy_CH224K_pic1.jpg)
 
+# CH224K USB PD Power Receiving Chip
 The CH224K is a USB PD power receiving protocol chip, which integrates PD3.0/2.0, BC1.2 and other fast charging protocols, automatically detects VCONN and analog E-Mark chips, supports up to 100W power, and has built-in PD communication module. It also integrates output voltage detection internally to support overheating and overvoltage protection. It features:
 
 - 4V to 22V input voltage
@@ -25,6 +26,12 @@ The output voltage can be selected via the DIP switches as follows:
 
 The Power-Good LED lights up when the selected voltage has been successfully negotiated with the USB-C power adapter and is present at the output. The voltage can also be changed during operation.
 
+# Version with Power Path Control (PPC)
+A second PCB version implements an additional MOSFET for power path control, which only enables the voltage output after successful negotiation with the power supply.
+
+![USB-PD_Decoy_PPC_CH224K_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Decoy_CH224K/USB-PD_Decoy_PPC_CH224K_pic1.jpg)
+
+# References, Links and Notes
 1. [USB PD Adapter](https://github.com/wagiminator/ATtiny814-USB-PD-Adapter)
 2. [CH224K Datasheet](https://datasheet.lcsc.com/lcsc/2204251615_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf)
 3. [TI Primer on USB PD](https://www.ti.com/lit/wp/slyy109b/slyy109b.pdf)

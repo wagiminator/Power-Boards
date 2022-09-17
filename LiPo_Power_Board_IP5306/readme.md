@@ -22,5 +22,5 @@ Key functions:
 - If button is pushed shorter than 30ms, IP5306 will ignore the action.
 
 ![LiPo_Power_Board_IP5306_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_pic1.jpg)
-![LiPo_Power_Board_IP5306_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_pic2.jpg)
+![LiPo_Power_Board_USB-C_IP5306_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_USB-C_IP5306_pic1.jpg)
 ![LiPo_Power_Board_IP5306_performance.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_performance.png)

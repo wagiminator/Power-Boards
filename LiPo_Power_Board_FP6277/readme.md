@@ -2,7 +2,7 @@
 
 Li-Ion battery charger, protector and 5V/3A booster. Use unprotected Li-Ion batteries with low internal resistance which are rated for a discharge current of at least 7A! Connect the battery with short wires of 20AWG or thicker! Attach a heatsink on the back side of the PCB when drawing more than 2A of current continuously! Use a slide switch that can withstand a current of 6A!
 
-![IMG_20200416_162630_x.jpg](https://image.easyeda.com/pullimage/ZtWrjAydPL3rpFxg8FzVYH4KKxGVADAqohTF13Yd.jpeg)
+![LiPo_Power_Board_FP6277_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_FP6277/LiPo_Power_Board_FP6277_pic1.jpg)
 
 # Working Principle
 For battery charging the [TP4056](https://datasheet.lcsc.com/szlcsc/1904031009_TPOWER-TP4056_C382139.pdf) (U1) is used. The TP4056 is a complete constant-current/constant-voltage linear charger for single cell lithium-ion batteries. The charge voltage is fixed at 4.2V and the charge current (max 1000mA) can be programmed externally with a single resistor (R3). The TP4056 automatically terminates the charge cycle when the charge current drops to 1/10th the programmed value after the final float voltage is reached. Other features include current monitor, under voltage lockout and automatic recharge.
@@ -13,8 +13,8 @@ To step up the voltage to 5V the [FP6277](https://datasheet.lcsc.com/szlcsc/Feel
 
 # Performance
 
-![FP6277_efficiency_x.png](https://image.easyeda.com/pullimage/nfUJzCyhWSRqaUkdYln9HggGriqkeZgmHf0isjVQ.png)
-![TP4056_charge_x.png](https://image.easyeda.com/pullimage/UNkHfqfx3ETdvMpiQEETEzMi013vV7Ha1eeUnqdU.png)
+![LiPo_Power_Board_FP6277_performance.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_FP6277/LiPo_Power_Board_FP6277_performance.png)
+![LiPo_Power_Board_FP6277_charge.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_FP6277/LiPo_Power_Board_FP6277_charge.png)
 
 # License
 

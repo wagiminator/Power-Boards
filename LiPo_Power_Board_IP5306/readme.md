@@ -1,6 +1,6 @@
 # IP5306 LiPo Power Board
 
-LiPo battery charger, protector and 5V booster based on the [IP5306](https://datasheet.lcsc.com/szlcsc/INJOINIC-IP5306_C181692.pdf) featuring:
+LiPo battery charger, protector and 5V booster based on the [IP5306](https://datasheet.lcsc.com/szlcsc/INJOINIC-IP5306_C181692.pdf) with MicroUSB or USB Type-C port featuring:
 - synchronous switch-mode charging with up to 2.1A / 91% efficiency,
 - discharging with up to 2.4A,
 - 5V boost converter with up to 92% efficiency,
@@ -21,5 +21,6 @@ Key functions:
 - If button is pushed longer than 2s, IP5306 will identify the action as long push. Long push will enable or disable PWR LED (flashlight).
 - If button is pushed shorter than 30ms, IP5306 will ignore the action.
 
-![IMG_20200111_160606_x.jpg](https://image.easyeda.com/pullimage/rxdgYDNxoOJD6VvLInlVP580dBqVBJwm64oJ3WG0.jpeg)
-![IP5306_efficiency_x.png](https://image.easyeda.com/pullimage/wphHg653VxfUIUU01PYvrbN4pTR3UtEO0s1xtUJ8.png)
+![LiPo_Power_Board_IP5306_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_pic1.jpg)
+![LiPo_Power_Board_IP5306_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_pic2.jpg)
+![LiPo_Power_Board_IP5306_performance.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_IP5306_performance.png)

@@ -2,5 +2,5 @@
 
 5V buck converter based on [MP2307](https://cdn-shop.adafruit.com/datasheets/MP2307_r1.9.pdf).
 
-![IMG_20190726_133342.jpg](https://image.easyeda.com/pullimage/rahd7Wc1zkiYGPVX175igG8T43oeKwF9p2yL1J9w.jpeg)
-![MP2307_efficiency_x.png](https://image.easyeda.com/pullimage/8iQdtMDXOFC47ZdzBdaSCOZiYrPsqTUXzecqmbeK.png)
+![Buck_Converter_MP2307_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Buck_Converter_MP2307/Buck_Converter_MP2307_pic1.jpg)
+![Buck_Converter_MP2307_performance.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Buck_Converter_MP2307/Buck_Converter_MP2307_performance.png)

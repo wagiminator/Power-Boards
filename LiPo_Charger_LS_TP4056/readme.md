@@ -1,7 +1,7 @@
 # TP4056 LiPo Charger LS
 Li-Ion/LiPo battery charging and protection board (25.4mm x 17.8mm) with USB-C port and load sharing power path control.
 
-![IMG_20210819_113534_x.jpg](https://image.easyeda.com/pullimage/B0T9KeI21MM6r1Ac8N2WSpHn8RigFNODRVMIk4Yc.jpeg)
+![LiPo_Charger_LS_TP4056_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Charger_LS_TP4056/LiPo_Charger_LS_TP4056_pic1.jpg)
 
 For battery charging the [TP4056](https://datasheet.lcsc.com/szlcsc/1904031009_TPOWER-TP4056_C382139.pdf) (U1) is used. The TP4056 is a complete constant-current/constant-voltage linear charger for single cell lithium-ion batteries. The charge voltage is fixed at 4.2V and the charge current (max 1000mA) can be programmed externally with a single resistor (R3). The TP4056 automatically terminates the charge cycle when the charge current drops to 1/10th the programmed value after the final float voltage is reached. Other features include current monitor, under voltage lockout and automatic recharge.
 

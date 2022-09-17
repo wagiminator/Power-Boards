@@ -2,5 +2,6 @@
 
 5V Buck Converter based on the [LM2596](https://www.ti.com/lit/gpn/lm2596).
 
-![IMG_20200111_160419_x.jpg](https://image.easyeda.com/pullimage/u7gXdgO6U9UGPXfZC9cimWuZ6az31SlvdAqcG5HZ.jpeg)
-![LM2596_efficiency_x.png](https://image.easyeda.com/pullimage/rP6zqIzWsEZ4TiFKpl9byqj6Gyi20itlbBWZYFjT.png)
+![Buck_Converter_5V_LM2596_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Buck_Converter_5V_LM2596/Buck_Converter_5V_LM2596_pic1.jpg)
+![Buck_Converter_5V_LM2596_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Buck_Converter_5V_LM2596/Buck_Converter_5V_LM2596_pic2.jpg)
+![Buck_Converter_5V_LM2596_performance.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Buck_Converter_5V_LM2596/Buck_Converter_5V_LM2596_performance.png)

@@ -2,8 +2,7 @@
 
 Powerbank based on FP6277 boost converter with 5V and 3.3V output up to 3A. Choose a good 18650 Li-Ion battery with a low internal resistance which is capable of delivering up to 7A!
 
-![IMG_20200614_131700_x.jpg](https://image.easyeda.com/pullimage/919dwwwVmEnrJDwjf5GN63aevVNBjDQ9nd0qLIZs.jpeg)
-![IMG_20200614_131738_x.jpg](https://image.easyeda.com/pullimage/bBlxwvgvj511PKvi4o0TkMSiLXCxyM22GjvZIyPd.jpeg)
+![Power_Bank_3A_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Power_Bank_3A/Power_Bank_3A_pic1.jpg)
 
 # Working Principle
 
@@ -15,6 +14,9 @@ To step up the voltage to 5V the [FP6277](https://datasheet.lcsc.com/szlcsc/Feel
 
 The [UZ1085L](https://datasheet.lcsc.com/szlcsc/1810081510_UTC-Unisonic-Tech-UZ1085L-33-TN3-R_C125622.pdf) low dropout voltage regulator (U4) provides a voltage of 3.3V with a current of up to 3A.
 
+![Power_Bank_3A_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Power_Bank_3A/Power_Bank_3A_pic2.jpg)
+![Power_Bank_3A_pic3.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Power_Bank_3A/Power_Bank_3A_pic3.jpg)
+
 # Performance
 
 |Parameter|Value|
@@ -25,8 +27,8 @@ The [UZ1085L](https://datasheet.lcsc.com/szlcsc/1810081510_UTC-Unisonic-Tech-UZ1
 |Peak Output Current|max 3200 mA|
 |Quiescent Current|< 3 uA|
 
-![PowerBank_eff_5V_x.png](https://image.easyeda.com/pullimage/hbvbpmmncNbOpdmnTLYwaK1iJlOW7laZteYrat9d.png)
-![PowerBank_eff_3V3_x.png](https://image.easyeda.com/pullimage/5QdEpmEDb1OJ72836TSk3Stcm7Vbhvii7OB4z5cS.png)
+![Power_Bank_3A_performance1.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Power_Bank_3A/Power_Bank_3A_performance1.png)
+![Power_Bank_3A_performance2.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Power_Bank_3A/Power_Bank_3A_performance2.png)
 
 # License
 

@@ -2,6 +2,7 @@
 Replace your old 78xx voltage regulators with this much more efficient pin-compatible buck converter.
 
 ![78xx_Replacement_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_pic1.jpg)
+![78xx_Replacement_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_pic2.jpg)
 
 |Parameter|Value|
 |:-|:-|
@@ -9,7 +10,6 @@ Replace your old 78xx voltage regulators with this much more efficient pin-compa
 |Output Voltage|Selectable via Resistors R1 and R2: V = 0.6 * (R1 / R2 + 1)|
 |Output Current|max 2A|
 
-![78xx_Replacement_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_pic2.jpg)
 ![78xx_Replacement_SD8942_performance1.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_performance1.png)
 ![78xx_Replacement_SD8942_performance2.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_performance2.png)
 

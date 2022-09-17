@@ -1,10 +1,10 @@
 # USB Power Delivery Source (IP6520)
-With the USB-PD Source, old power supplies can be transformed into modern fast charging adapters with a USB Type-C output port and an output power of up to 18W. The device masters the most common fast charging protocols and can offer different voltages with high currents (5V/3.1A, 7V/2.4A, 9V/2A, 12V/1.5A).
+With the USB-PD Source, old power supplies can be transformed into modern fast charging adapters with a USB Type-C output port and an output power of up to 18W. The device masters the most common fast charging protocols (PD2.0, BC1.2, QC2.0, QC3.0, FCP, AFC e.g. for Apple, Samsung, Huawei) and can offer different voltages with high currents (5V/3A, 9V/2A, 12V/1.5A).
 
 ![USB-PD_Source_IP6520_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB-PD_Source_IP6520/USB-PD_Source_IP6520_pic1.jpg)
 
 # IP6520 Fast Charge Protocol Buck Converter
-IP6510 is a synchronized switch buck regulator and supports 9 fast charge output standards, supports Type-C and PD output, providing solutions for car charger, fast charge adaptor and smart power strip. It features:
+IP6510 is a synchronized switch buck regulator and supports 9 fast charge output standards, supports Type-C and PD output, providing solutions for car charger, fast charge adapter and smart power strip. It features:
 - Synchronized Switch Regulator
   - Built-in power MOSFET
   - Input voltage range: 4.5V~32V
@@ -14,13 +14,12 @@ IP6510 is a synchronized switch buck regulator and supports 9 fast charge output
   - Output CV/CC characteristic: CV—output - current lower than preset value; CC—output - current higher than preset value
   - Conversion efficiency: up to 97%
   - Soft start function
-- Support Type-C output and USB PD protocol
-  - Support 5V, 9V, 12V PD output
-  - Fast charge output
+- Fast Charge Output
+  - Support 5V, 9V, 12V USB Type-C PD output
   - Support BC1.2, Apple, Samsung
-  - Support Qualcomm QC2.0, QC3.0 Support
+  - Support Qualcomm QC2.0, QC3.0
   - Support Huawei fast charge: FCP
-  - Support Samsung fast charge : AFC
+  - Support Samsung fast charge: AFC
 - Multi-protection and high reliability
   - Input overvoltage, input under voltage, output short circuit, output overcurrent protection
   - Whole system over temperature protection

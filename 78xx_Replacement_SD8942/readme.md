@@ -21,7 +21,7 @@ Replace your old 78xx voltage regulators with this much more efficient pin-compa
 |5.2V|115kΩ|15kΩ|
 |5V|110kΩ|15kΩ|
 |3.4V|56kΩ|12kΩ|
-|3.3V|115kΩ|25.5k|
+|3.3V|115kΩ|25.5kΩ|
 
 ![78xx_Replacement_SD8942_performance1.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_performance1.png)
 ![78xx_Replacement_SD8942_performance2.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_performance2.png)

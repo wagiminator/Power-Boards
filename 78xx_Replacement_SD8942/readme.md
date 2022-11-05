@@ -18,13 +18,17 @@ Replace your old 78xx voltage regulators with this much more efficient pin-compa
 |9V|140kΩ|10kΩ|
 |6.2V|140kΩ|15kΩ|
 |6V|102kΩ|11.3kΩ|
+|5.3V|100kΩ|13kΩ|
 |5.2V|115kΩ|15kΩ|
+|5.1V|75kΩ|10kΩ|
 |5V|110kΩ|15kΩ|
+|3.5V|107kΩ|22.1kΩ|
 |3.4V|56kΩ|12kΩ|
 |3.3V|115kΩ|25.5kΩ|
 
 ![78xx_Replacement_SD8942_performance1.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_performance1.png)
 ![78xx_Replacement_SD8942_performance2.png](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_performance2.png)
+![78xx_Replacement_SD8942_scope1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/78xx_Replacement_SD8942/78xx_Replacement_SD8942_scope1.jpg)
 
 1. [SD8942 Datasheet](https://datasheet.lcsc.com/lcsc/1808081634_SHOUDING-SD8942_C250795.pdf)
 2. [MT2492 Datasheet](https://datasheet.lcsc.com/lcsc/1810262207_XI-AN-Aerosemi-Tech-MT2492_C89358.pdf)

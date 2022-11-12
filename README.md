@@ -62,6 +62,11 @@ Single cell LiFePO4 charger (CN3058E), protector (HY2112) and 5V booster (MT3608
 
 ![LiFePO4_Power_Board_LS_5V.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiFePO4_Power_Board_LS_5V/LiFePO4_Power_Board_LS_5V_pic1.jpg)
 
+## [USB Power Filter](https://github.com/wagiminator/Power-Boards/tree/master/USB_Power_Filter)
+The USB Power Filter reduces noise and ripple on the 5V power rail through a combination of different low-pass filters.
+
+![USB_Power_Filter_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/USB_Power_Filter/USB_Power_Filter_pic1.jpg)
+
 ## [USB PD Source (IP6520)](https://github.com/wagiminator/Power-Boards/tree/master/USB-PD_Source_IP6520)
 With the USB-PD Source, old power supplies can be transformed into modern fast charging adapters with a USB Type-C output port and an output power of up to 18W. The device masters the most common fast charging protocols (PD2.0, BC1.2, QC2.0, QC3.0, FCP, AFC e.g. for Apple, Samsung, Huawei) and can offer different voltages with high currents (5V/3A, 9V/2A, 12V/1.5A).
 

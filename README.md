@@ -12,28 +12,33 @@ Solar powered switch-mode charger (CN3801), protector (HY2112) and 5V booster (M
 
 ![Solar_Charger.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/Solar_Charger/Solar_Charger_pic1.jpg)
 
+## [LiPo Charger (IP2312)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Charger_IP2312)
+Single cell Li-Ion/LiPo synchronous switch-mode battery fast charging board (up to 3A) with USB Type-C port.
+
+![LiPo_Charger_IP2312_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Charger_IP2312/LiPo_Charger_IP2312_pic1.jpg)
+
 ## [LiPo Charger (TP4056)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Charger_TP4056)
-LiPo battery charging and protection circuit.
+Single cell Li-Ion/LiPo battery charging and protection circuit.
 
 ![LiPo_Charger_TP4056.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Charger_TP4056/LiPo_Charger_TP4056_pic1.jpg)
 
 ## [LiPo Charger LS (TP4056)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Charger_LS_TP4056)
-Li-Ion/LiPo battery charging and protection board with USB-C port and load sharing power path control.
+Single cell Li-Ion/LiPo battery charging and protection board with USB-C port and load sharing power path control.
 
 ![LiPo_Charger_LS_TP4056.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Charger_LS_TP4056/LiPo_Charger_LS_TP4056_pic1.jpg)
 
 ## [LiPo Power Board (IP5306)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_IP5306)
-LiPo battery charger, protector and 5V booster based on the IP5306 with MicroUSB or USB Type-C port.
+Single cell Li-Ion/LiPo battery charger, protector and 5V booster based on the IP5306 with MicroUSB or USB Type-C port.
 
 ![LiPo_Power_Board_USB-C_IP5306.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_IP5306/LiPo_Power_Board_USB-C_IP5306_pic1.jpg)
 
 ## [LiPo Power Board (FP6277)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_FP6277)
-Li-Ion battery charger (TP4056), protector (DW01A) and 5V/3A booster (FP6277).
+Single cell Li-Ion/LiPo battery charger (TP4056), protector (DW01A) and 5V/3A booster (FP6277).
 
 ![LiPo_Power_Board_FP6277.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_FP6277/LiPo_Power_Board_FP6277_pic1.jpg)
 
 ## [LiPo Power Board (FP6298)](https://github.com/wagiminator/Power-Boards/tree/master/LiPo_Power_Board_FP6298)
-Li-Ion battery charger (TP4056), protector (DW01A) and 5V/2A booster (FP6298).
+Single cell Li-Ion/LiPo battery charger (TP4056), protector (DW01A) and 5V/2A booster (FP6298).
 
 ![LiPo_Power_Board_FP6298.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Power_Board_FP6298/LiPo_Power_Board_FP6298_pic1.jpg)
 
@@ -48,7 +53,7 @@ Charger for LIR2032 Li-Ion batteries.
 ![LIR2032_Charger_TP4056.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LIR2032_Charger_TP4056/LIR2032_Charger_TP4056_pic1.jpg)
 
 ## [LiFePO4 Charger (CN3058)](https://github.com/wagiminator/Power-Boards/tree/master/LiFePO4_Charger_CN3058)
-One cell LiFePO4 battery charger and protector.
+Single cell LiFePO4 battery charger and protector.
 
 ![LiFePO4_Charger_CN3058.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiFePO4_Charger_CN3058/LiFePO4_Charger_CN3058_pic2.jpg)
 

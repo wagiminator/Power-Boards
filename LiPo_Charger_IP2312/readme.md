@@ -1,5 +1,5 @@
 # IP2312 LiPo Charger
-Single cell Li-Ion/LiPo synchronous switch-mode battery fast charging board (up to 3A) with USB Type-C port.
+Single cell Li-Ion/LiPo battery synchronous switch-mode fast charging board (up to 3A) with USB Type-C port.
 
 ![LiPo_Charger_IP2312_pic1.jpg](https://raw.githubusercontent.com/wagiminator/Power-Boards/master/LiPo_Charger_IP2312/LiPo_Charger_IP2312_pic1.jpg)
 

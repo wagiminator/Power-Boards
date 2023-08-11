@@ -7,7 +7,7 @@ With the USB PD Decoy, a USB Type-C PD power adapter can be used as a power supp
 The CH224K is a USB PD power receiving protocol chip, which integrates PD3.0/2.0, BC1.2 and other fast charging protocols, automatically detects VCONN and analog E-Mark chips, supports up to 100W power, and has built-in PD communication module. It also integrates output voltage detection internally to support overheating and overvoltage protection. It features:
 
 - 4V to 22V input voltage
-- PD3.0/2.0, BC1.2 and other fast charging protocols
+- PD3.0/2.0, BC1.2, QC3.0/2.0, AFC and other fast charging protocols
 - USB Type-C PD, positive and negative insertion detection and automatic switching
 - E-Mark simulation, automatically detects VCONN, supports 100W power PD request
 - requested voltage can be dynamically adjusted through a variety of methods
